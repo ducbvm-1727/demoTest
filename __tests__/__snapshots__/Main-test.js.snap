@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main snapshot 1`] = `
+<View>
+  <Text
+    style={
+      Object {
+        "alignItems": "center",
+        "fontSize": 28,
+        "justifyContent": "center",
+      }
+    }
+  >
+    My name is undefined
+  </Text>
+</View>
+`;

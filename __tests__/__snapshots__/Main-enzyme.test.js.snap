@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main test Enzyme 1`] = `
+<View>
+  <Text
+    style={
+      Object {
+        "alignItems": "center",
+        "fontSize": 28,
+        "justifyContent": "center",
+      }
+    }
+  >
+    My name is Duc
+  </Text>
+</View>
+`;
+
+exports[`Main test Enzyme 2`] = `
+<View>
+  <Text
+    style={
+      Object {
+        "alignItems": "center",
+        "fontSize": 28,
+        "justifyContent": "center",
+      }
+    }
+  >
+    My name is Duc Dep trai
+  </Text>
+</View>
+`;
